@@ -1,6 +1,6 @@
  Hi, I’m Harsh kumar patel.
  I’m interested in exploring new technical gadgets.
- I’m currently learning C programming.
+ I’m currently learning JAVA programming.
  You may contact to me through my mail id 'codeharsh13@yahoo.com'
 
 <!---
